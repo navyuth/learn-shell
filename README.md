@@ -12,5 +12,5 @@ Shell Scripting Topics:
 7. Inputs
 8. Exit Status
 9. Quotes
-10. Redirectors
+10. Redirector
 ```
