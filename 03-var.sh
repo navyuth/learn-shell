@@ -10,4 +10,4 @@ ADD=$((2+3))
 echo "Addition of 2+3: ${ADD}"
 
 # Accessing the variable from shell
-echo x = $x
+echo y = $y
