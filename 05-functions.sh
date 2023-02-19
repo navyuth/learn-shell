@@ -6,7 +6,11 @@ xyz() {
   echo Second Argument - $2
   echo All Arguments - $*
   echo No of Arguments - $#
+  echo Value of a= $a
+  b=20
 }
 
 # call a function
+a=50
 xyz 123 456 789
+echo Value of b=$b
