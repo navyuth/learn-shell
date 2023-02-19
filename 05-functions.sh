@@ -5,4 +5,4 @@ xyz() {
 }
 
 # call a function
-xyz
+xyz 123 456 789
