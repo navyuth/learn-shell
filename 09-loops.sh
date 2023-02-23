@@ -10,6 +10,6 @@ done
 # Loop based on inputs
 
 for i in 1 2 3 4 5 6 7 8 9 10; do
-  echo $1
+  echo $i
   sleep 1
 done
