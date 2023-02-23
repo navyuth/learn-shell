@@ -15,3 +15,12 @@ xyz() {
 a=50
 xyz 123 456 789
 echo Value of b=$b
+
+abc() {
+  echo Hello
+  return 1
+  echo bye
+}
+
+abc
+echo Exit status of abc function = $?
